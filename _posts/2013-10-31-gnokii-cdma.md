@@ -8,7 +8,7 @@ tags: [gnokii]
 {% include JB/setup %}
 
 
-Traditionally we used a GSM modem to send out nagios notifications, but since the GSM modem only supports China Mobile's GSM card, and for some reason we need to replace the card with a CDMA card from China Telecom, I decided to buy a CDMA modem for that. 
+Traditionally we used a GSM modem to send out nagios notifications, but since the GSM modem only supports China Mobile's GSM card, and for some reason we needed to replace the card with a CDMA card from China Telecom, I decided to buy a CDMA modem for that. 
 
 So I searched on taobao because in China that's the place to find gadgets like that. Unfortunately none of the retailers is sure if the CDMA modem they sell is compatible with Linux, and they have no idea what kind of chip is used in the modem. However, I had no choice but to buy one of the modems that looks like the GSM modem we were using, hoping that my Linux box would support it.
 
